@@ -1,5 +1,5 @@
 🔹 README.md for GitHub
-### 🚀 Diabetes Risk Analysis – Excel Dashboard ###
+### 🚀 Diabetes Risk Analysis ###
 
 ## 📌 Project Overview
 Diabetes is a major global health issue, and analyzing risk factors can help with **early detection** and **better decision-making**. This project uses **Excel-based analytics** to explore how glucose, BMI, age, insulin, and blood pressure impact diabetes prevalence.
